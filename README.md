@@ -3,7 +3,7 @@
 
 ***Follow these steps to clone the repository and install the necessary modules using Yarn.***
 
-### Clone the Repository
+### Clone The Repository
 
 ```sh
 git clone https://github.com/Megh2005/sol-fundraise-app.git
@@ -27,13 +27,13 @@ cd client
 yarn
 ```
 
-### Start the Development Server
+### Start The Development Server
 
 ```sh
 yarn dev
 ```
 
-Now, you should be able to see the application running on 
-```plaintext
+### View The Application
+```sh
 http://localhost:3000
 ```
